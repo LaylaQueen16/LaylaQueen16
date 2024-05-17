@@ -4,4 +4,4 @@
 - sou estudante do Alura
   #### . . . . . . . . . . bye bye . . . . . . . . . .
 
-  ![](https://media1.tenor.com/m/b6C6GIuUo1IAAAAC/hollow-knight-reading-map-pixel-art.gif)  ![](https://media1.tenor.com/m/hdHxFwuzAPUAAAAC/hollow-knight-the-knight.gif)
+  ![](https://media1.tenor.com/m/b6C6GIuUo1IAAAAC/hollow-knight-reading-map-pixel-art.gif)  
